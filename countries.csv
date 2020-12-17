@@ -1,0 +1,290 @@
+_id,countryCallingCodes,currencies,languages,alpha2,alpha3,emoji,ioc,name,status,__v
+5fbf95454bc0e11fa470d8c1,"[""+247""]","[""USD""]","[""eng""]",AC,false,false,SHP,Ascension Island,reserved,0
+5fbf95454bc0e11fa470d8c2,"[""+376""]","[""EUR""]","[""cat""]",AD,AND,🇦🇩,AND,Andorra,assigned,0
+5fbf95454bc0e11fa470d8c3,"[""+971""]","[""AED""]","[""ara""]",AE,ARE,🇦🇪,UAE,United Arab Emirates,assigned,0
+5fbf95454bc0e11fa470d8c4,"[""+93""]","[""AFN""]","[""pus""]",AF,AFG,🇦🇫,AFG,Afghanistan,assigned,0
+5fbf95454bc0e11fa470d8c5,"[""+1 268""]","[""XCD""]","[""eng""]",AG,ATG,🇦🇬,ANT,Antigua And Barbuda,assigned,0
+5fbf95454bc0e11fa470d8c6,"[""+1 264""]","[""XCD""]","[""eng""]",AI,AIA,🇦🇮,false,Anguilla,assigned,0
+5fbf95454bc0e11fa470d8c7,[],[],[],AI,AFI,,false,French Afar and Issas,deleted,0
+5fbf95454bc0e11fa470d8c8,"[""+355""]","[""ALL""]","[""sqi""]",AL,ALB,🇦🇱,ALB,Albania,assigned,0
+5fbf95454bc0e11fa470d8c9,"[""+374""]","[""AMD""]","[""hye"",""rus""]",AM,ARM,🇦🇲,ARM,Armenia,assigned,0
+5fbf95454bc0e11fa470d8ca,[],[],[],AN,ANT,,false,Netherlands Antilles,deleted,0
+5fbf95454bc0e11fa470d8cb,"[""+244""]","[""AOA""]","[""por""]",AO,AGO,🇦🇴,ANG,Angola,assigned,0
+5fbf95454bc0e11fa470d8cc,"[""+672""]",[],[],AQ,ATA,🇦🇶,false,Antarctica,assigned,0
+5fbf95454bc0e11fa470d8cd,"[""+54""]","[""ARS""]","[""spa""]",AR,ARG,🇦🇷,ARG,Argentina,assigned,0
+5fbf95454bc0e11fa470d8ce,"[""+1 684""]","[""USD""]","[""eng"",""smo""]",AS,ASM,🇦🇸,ASA,American Samoa,assigned,0
+5fbf95454bc0e11fa470d8cf,"[""+43""]","[""EUR""]","[""deu""]",AT,AUT,🇦🇹,AUT,Austria,assigned,0
+5fbf95454bc0e11fa470d8d0,"[""+61""]","[""AUD""]","[""eng""]",AU,AUS,🇦🇺,AUS,Australia,assigned,0
+5fbf95454bc0e11fa470d8d1,"[""+297""]","[""AWG""]","[""nld""]",AW,ABW,🇦🇼,ARU,Aruba,assigned,0
+5fbf95454bc0e11fa470d8d2,"[""+358""]","[""EUR""]","[""swe""]",AX,ALA,🇦🇽,false,Åland Islands,assigned,0
+5fbf95454bc0e11fa470d8d3,"[""+994""]","[""AZN""]","[""aze""]",AZ,AZE,🇦🇿,AZE,Azerbaijan,assigned,0
+5fbf95454bc0e11fa470d8d4,"[""+387""]","[""BAM""]","[""bos"",""cre"",""srp""]",BA,BIH,🇧🇦,BIH,Bosnia & Herzegovina,assigned,0
+5fbf95454bc0e11fa470d8d5,"[""+1 246""]","[""BBD""]","[""eng""]",BB,BRB,🇧🇧,BAR,Barbados,assigned,0
+5fbf95454bc0e11fa470d8d6,"[""+880""]","[""BDT""]","[""ben""]",BD,BGD,🇧🇩,BAN,Bangladesh,assigned,0
+5fbf95454bc0e11fa470d8d7,"[""+32""]","[""EUR""]","[""nld"",""fra"",""deu""]",BE,BEL,🇧🇪,BEL,Belgium,assigned,0
+5fbf95454bc0e11fa470d8d8,"[""+226""]","[""XOF""]","[""fra""]",BF,BFA,🇧🇫,BUR,Burkina Faso,assigned,0
+5fbf95454bc0e11fa470d8d9,"[""+359""]","[""BGN""]","[""bul""]",BG,BGR,🇧🇬,BUL,Bulgaria,assigned,0
+5fbf95454bc0e11fa470d8da,"[""+973""]","[""BHD""]","[""ara""]",BH,BHR,🇧🇭,BRN,Bahrain,assigned,0
+5fbf95454bc0e11fa470d8db,"[""+257""]","[""BIF""]","[""fra""]",BI,BDI,🇧🇮,BDI,Burundi,assigned,0
+5fbf95454bc0e11fa470d8dc,"[""+229""]","[""XOF""]","[""fra""]",BJ,BEN,🇧🇯,BEN,Benin,assigned,0
+5fbf95454bc0e11fa470d8dd,"[""+590""]","[""EUR""]","[""fra""]",BL,BLM,🇧🇱,false,Saint Barthélemy,assigned,0
+5fbf95454bc0e11fa470d8de,"[""+1 441""]","[""BMD""]","[""eng""]",BM,BMU,🇧🇲,BER,Bermuda,assigned,0
+5fbf95454bc0e11fa470d8df,"[""+673""]","[""BND""]","[""msa"",""eng""]",BN,BRN,🇧🇳,BRU,Brunei Darussalam,assigned,0
+5fbf95454bc0e11fa470d8e0,"[""+591""]","[""BOB"",""BOV""]","[""spa"",""aym"",""que""]",BO,BOL,🇧🇴,BOL,"Bolivia, Plurinational State Of",assigned,0
+5fbf95454bc0e11fa470d8e1,"[""+599""]","[""USD""]","[""nld""]",BQ,BES,🇧🇶,false,"Bonaire, Saint Eustatius And Saba",assigned,0
+5fbf95454bc0e11fa470d8e2,[],[],[],BQ,ATB,,false,British Antarctic Territory,deleted,0
+5fbf95454bc0e11fa470d8e3,"[""+55""]","[""BRL""]","[""por""]",BR,BRA,🇧🇷,BRA,Brazil,assigned,0
+5fbf95454bc0e11fa470d8e4,"[""+1 242""]","[""BSD""]","[""eng""]",BS,BHS,🇧🇸,BAH,Bahamas,assigned,0
+5fbf95454bc0e11fa470d8e5,"[""+975""]","[""INR"",""BTN""]","[""dzo""]",BT,BTN,🇧🇹,BHU,Bhutan,assigned,0
+5fbf95454bc0e11fa470d8e6,[],[],[],BU,BUR,,false,Burma,deleted,0
+5fbf95454bc0e11fa470d8e7,[],"[""NOK""]",[],BV,BVT,🇧🇻,false,Bouvet Island,assigned,0
+5fbf95454bc0e11fa470d8e8,"[""+267""]","[""BWP""]","[""eng"",""tsn""]",BW,BWA,🇧🇼,BOT,Botswana,assigned,0
+5fbf95454bc0e11fa470d8e9,"[""+375""]","[""BYR""]","[""bel"",""rus""]",BY,BLR,🇧🇾,BLR,Belarus,assigned,0
+5fbf95454bc0e11fa470d8ea,[],[],[],BY,BYS,,false,Byelorussian SSR,deleted,0
+5fbf95454bc0e11fa470d8eb,"[""+501""]","[""BZD""]","[""eng""]",BZ,BLZ,🇧🇿,BIZ,Belize,assigned,0
+5fbf95454bc0e11fa470d8ec,"[""+1""]","[""CAD""]","[""eng"",""fra""]",CA,CAN,🇨🇦,CAN,Canada,assigned,0
+5fbf95454bc0e11fa470d8ed,"[""+61""]","[""AUD""]","[""eng""]",CC,CCK,🇨🇨,false,Cocos (Keeling) Islands,assigned,0
+5fbf95454bc0e11fa470d8ee,"[""+243""]","[""CDF""]","[""fra"",""lin"",""kon"",""swa""]",CD,COD,🇨🇩,COD,Democratic Republic Of Congo,assigned,0
+5fbf95454bc0e11fa470d8ef,"[""+236""]","[""XAF""]","[""fra"",""sag""]",CF,CAF,🇨🇫,CAF,Central African Republic,assigned,0
+5fbf95454bc0e11fa470d8f0,"[""+242""]","[""XAF""]","[""fra"",""lin""]",CG,COG,🇨🇬,CGO,Republic Of Congo,assigned,0
+5fbf95454bc0e11fa470d8f1,"[""+41""]","[""CHF"",""CHE"",""CHW""]","[""deu"",""fra"",""ita"",""roh""]",CH,CHE,🇨🇭,SUI,Switzerland,assigned,0
+5fbf95454bc0e11fa470d8f2,"[""+225""]","[""XOF""]","[""fra""]",CI,CIV,🇨🇮,CIV,"Côte d'Ivoire",assigned,0
+5fbf95454bc0e11fa470d8f3,"[""+682""]","[""NZD""]","[""eng"",""mri""]",CK,COK,🇨🇰,COK,Cook Islands,assigned,0
+5fbf95454bc0e11fa470d8f4,"[""+56""]","[""CLP"",""CLF""]","[""spa""]",CL,CHL,🇨🇱,CHI,Chile,assigned,0
+5fbf95454bc0e11fa470d8f5,"[""+237""]","[""XAF""]","[""eng"",""fra""]",CM,CMR,🇨🇲,CMR,Cameroon,assigned,0
+5fbf95454bc0e11fa470d8f6,"[""+86""]","[""CNY""]","[""zho""]",CN,CHN,🇨🇳,CHN,China,assigned,0
+5fbf95454bc0e11fa470d8f7,"[""+57""]","[""COP"",""COU""]","[""spa""]",CO,COL,🇨🇴,COL,Colombia,assigned,0
+5fbf95454bc0e11fa470d8f8,[],"[""EUR""]",[],CP,false,false,false,Clipperton Island,reserved,0
+5fbf95454bc0e11fa470d8f9,"[""+506""]","[""CRC""]","[""spa""]",CR,CRI,🇨🇷,CRC,Costa Rica,assigned,0
+5fbf95454bc0e11fa470d8fa,[],[],[],CS,CSK,,false,Czechoslovakia,deleted,0
+5fbf95454bc0e11fa470d8fb,[],[],[],CS,SCG,,false,Serbia and Montenegro,deleted,0
+5fbf95454bc0e11fa470d8fc,[],[],[],CT,CTE,,false,Canton and Enderbury Islands,deleted,0
+5fbf95454bc0e11fa470d8fd,"[""+53""]","[""CUP"",""CUC""]","[""spa""]",CU,CUB,🇨🇺,CUB,Cuba,assigned,0
+5fbf95454bc0e11fa470d8fe,"[""+238""]","[""CVE""]","[""por""]",CV,CPV,🇨🇻,CPV,Cabo Verde,assigned,0
+5fbf95454bc0e11fa470d8ff,"[""+599""]","[""ANG""]","[""nld""]",CW,CUW,🇨🇼,false,Curacao,assigned,0
+5fbf95454bc0e11fa470d900,"[""+61""]","[""AUD""]","[""eng""]",CX,CXR,🇨🇽,false,Christmas Island,assigned,0
+5fbf95454bc0e11fa470d901,"[""+357""]","[""EUR""]","[""ell"",""tur""]",CY,CYP,🇨🇾,CYP,Cyprus,assigned,0
+5fbf95454bc0e11fa470d902,"[""+420""]","[""CZK""]","[""ces""]",CZ,CZE,🇨🇿,CZE,Czech Republic,assigned,0
+5fbf95454bc0e11fa470d903,[],[],[],DD,DDR,,false,German Democratic Republic,deleted,0
+5fbf95454bc0e11fa470d904,"[""+49""]","[""EUR""]","[""deu""]",DE,DEU,🇩🇪,GER,Germany,assigned,0
+5fbf95454bc0e11fa470d905,[],"[""USD""]",[],DG,false,false,false,Diego Garcia,reserved,0
+5fbf95454bc0e11fa470d906,"[""+253""]","[""DJF""]","[""ara"",""fra""]",DJ,DJI,🇩🇯,DJI,Djibouti,assigned,0
+5fbf95454bc0e11fa470d907,"[""+45""]","[""DKK""]","[""dan""]",DK,DNK,🇩🇰,DEN,Denmark,assigned,0
+5fbf95454bc0e11fa470d908,"[""+1 767""]","[""XCD""]","[""eng""]",DM,DMA,🇩🇲,DMA,Dominica,assigned,0
+5fbf95454bc0e11fa470d909,"[""+1 809"",""+1 829"",""+1 849""]","[""DOP""]","[""spa""]",DO,DOM,🇩🇴,DOM,Dominican Republic,assigned,0
+5fbf95454bc0e11fa470d90a,[],[],[],DY,DHY,,false,Dahomey,deleted,0
+5fbf95454bc0e11fa470d90b,"[""+213""]","[""DZD""]","[""ara""]",DZ,DZA,🇩🇿,ALG,Algeria,assigned,0
+5fbf95454bc0e11fa470d90c,[],"[""EUR""]",[],EA,false,false,false,"Ceuta, Mulilla",reserved,0
+5fbf95454bc0e11fa470d90d,"[""+593""]","[""USD""]","[""spa"",""que""]",EC,ECU,🇪🇨,ECU,Ecuador,assigned,0
+5fbf95454bc0e11fa470d90e,"[""+372""]","[""EUR""]","[""est""]",EE,EST,🇪🇪,EST,Estonia,assigned,0
+5fbf95454bc0e11fa470d90f,"[""+20""]","[""EGP""]","[""ara""]",EG,EGY,🇪🇬,EGY,Egypt,assigned,0
+5fbf95454bc0e11fa470d910,"[""+212""]","[""MAD""]",[],EH,ESH,🇪🇭,false,Western Sahara,assigned,0
+5fbf95454bc0e11fa470d911,"[""+291""]","[""ERN""]","[""eng"",""ara"",""tir""]",ER,ERI,🇪🇷,ERI,Eritrea,assigned,0
+5fbf95454bc0e11fa470d912,"[""+34""]","[""EUR""]","[""spa""]",ES,ESP,🇪🇸,ESP,Spain,assigned,0
+5fbf95454bc0e11fa470d913,"[""+251""]","[""ETB""]","[""amh""]",ET,ETH,🇪🇹,ETH,Ethiopia,assigned,0
+5fbf95454bc0e11fa470d914,"[""+388""]","[""EUR""]",[],EU,false,🇪🇺,false,European Union,reserved,0
+5fbf95454bc0e11fa470d915,"[""+358""]","[""EUR""]","[""fin"",""swe""]",FI,FIN,🇫🇮,FIN,Finland,assigned,0
+5fbf95454bc0e11fa470d916,"[""+679""]","[""FJD""]","[""eng"",""fij""]",FJ,FJI,🇫🇯,FIJ,Fiji,assigned,0
+5fbf95454bc0e11fa470d917,"[""+500""]","[""FKP""]","[""eng""]",FK,FLK,🇫🇰,false,Falkland Islands,assigned,0
+5fbf95454bc0e11fa470d918,"[""+691""]","[""USD""]","[""eng""]",FM,FSM,🇫🇲,FSM,"Micronesia, Federated States Of",assigned,0
+5fbf95454bc0e11fa470d919,"[""+298""]","[""DKK""]","[""fao"",""dan""]",FO,FRO,🇫🇴,FAI,Faroe Islands,assigned,0
+5fbf95454bc0e11fa470d91a,[],[],[],FQ,ATF,,false,French Southern and Antarctic Territories,deleted,0
+5fbf95454bc0e11fa470d91b,"[""+33""]","[""EUR""]","[""fra""]",FR,FRA,🇫🇷,FRA,France,assigned,0
+5fbf95454bc0e11fa470d91c,"[""+241""]","[""EUR""]","[""fra""]",FX,false,false,false,"France, Metropolitan",reserved,0
+5fbf95454bc0e11fa470d91d,"[""+241""]","[""XAF""]","[""fra""]",GA,GAB,🇬🇦,GAB,Gabon,assigned,0
+5fbf95454bc0e11fa470d91e,"[""+44""]","[""GBP""]","[""eng"",""cor"",""gle"",""gla"",""cym""]",GB,GBR,🇬🇧,GBR,United Kingdom,assigned,0
+5fbf95454bc0e11fa470d91f,"[""+473""]","[""XCD""]","[""eng""]",GD,GRD,🇬🇩,GRN,Grenada,assigned,0
+5fbf95454bc0e11fa470d920,"[""+995""]","[""GEL""]","[""kat""]",GE,GEO,🇬🇪,GEO,Georgia,assigned,0
+5fbf95454bc0e11fa470d921,[],[],[],GE,GEL,,false,Gilbert and Ellice Islands,deleted,0
+5fbf95454bc0e11fa470d922,"[""+594""]","[""EUR""]","[""fra""]",GF,GUF,🇬🇫,false,French Guiana,assigned,0
+5fbf95454bc0e11fa470d923,"[""+44""]","[""GBP""]","[""fra""]",GG,GGY,🇬🇬,GCI,Guernsey,assigned,0
+5fbf95454bc0e11fa470d924,"[""+233""]","[""GHS""]","[""eng""]",GH,GHA,🇬🇭,GHA,Ghana,assigned,0
+5fbf95454bc0e11fa470d925,"[""+350""]","[""GIP""]","[""eng""]",GI,GIB,🇬🇮,false,Gibraltar,assigned,0
+5fbf95454bc0e11fa470d926,"[""+299""]","[""DKK""]","[""kal""]",GL,GRL,🇬🇱,false,Greenland,assigned,0
+5fbf95454bc0e11fa470d927,"[""+220""]","[""GMD""]","[""eng""]",GM,GMB,🇬🇲,GAM,Gambia,assigned,0
+5fbf95454bc0e11fa470d928,"[""+224""]","[""GNF""]","[""fra""]",GN,GIN,🇬🇳,GUI,Guinea,assigned,0
+5fbf95454bc0e11fa470d929,"[""+590""]","[""EUR""]","[""fra""]",GP,GLP,🇬🇵,false,Guadeloupe,assigned,0
+5fbf95454bc0e11fa470d92a,"[""+240""]","[""XAF""]","[""spa"",""fra"",""por""]",GQ,GNQ,🇬🇶,GEQ,Equatorial Guinea,assigned,0
+5fbf95454bc0e11fa470d92b,"[""+30""]","[""EUR""]","[""ell""]",GR,GRC,🇬🇷,GRE,Greece,assigned,0
+5fbf95454bc0e11fa470d92c,[],"[""GBP""]","[""eng""]",GS,SGS,🇬🇸,false,South Georgia And The South Sandwich Islands,assigned,0
+5fbf95454bc0e11fa470d92d,"[""+502""]","[""GTQ""]","[""spa""]",GT,GTM,🇬🇹,GUA,Guatemala,assigned,0
+5fbf95454bc0e11fa470d92e,"[""+1 671""]","[""USD""]","[""eng""]",GU,GUM,🇬🇺,GUM,Guam,assigned,0
+5fbf95454bc0e11fa470d92f,"[""+245""]","[""XOF""]","[""por""]",GW,GNB,🇬🇼,GBS,Guinea-bissau,assigned,0
+5fbf95454bc0e11fa470d930,"[""+592""]","[""GYD""]","[""eng""]",GY,GUY,🇬🇾,GUY,Guyana,assigned,0
+5fbf95454bc0e11fa470d931,"[""+852""]","[""HKD""]","[""zho"",""eng""]",HK,HKG,🇭🇰,HKG,Hong Kong,assigned,0
+5fbf95454bc0e11fa470d932,[],"[""AUD""]",[],HM,HMD,🇭🇲,false,Heard Island And McDonald Islands,assigned,0
+5fbf95454bc0e11fa470d933,"[""+504""]","[""HNL""]","[""spa""]",HN,HND,🇭🇳,HON,Honduras,assigned,0
+5fbf95454bc0e11fa470d934,"[""+385""]","[""HRK""]","[""hrv""]",HR,HRV,🇭🇷,CRO,Croatia,assigned,0
+5fbf95454bc0e11fa470d935,"[""+509""]","[""HTG"",""USD""]","[""fra"",""hat""]",HT,HTI,🇭🇹,HAI,Haiti,assigned,0
+5fbf95454bc0e11fa470d936,"[""+36""]","[""HUF""]","[""hun""]",HU,HUN,🇭🇺,HUN,Hungary,assigned,0
+5fbf95454bc0e11fa470d937,[],[],[],HV,HVO,,false,Upper Volta,deleted,0
+5fbf95454bc0e11fa470d938,[],"[""EUR""]",[],IC,false,false,false,Canary Islands,reserved,0
+5fbf95454bc0e11fa470d939,"[""+62""]","[""IDR""]","[""ind""]",ID,IDN,🇮🇩,INA,Indonesia,assigned,0
+5fbf95454bc0e11fa470d93a,"[""+353""]","[""EUR""]","[""eng"",""gle""]",IE,IRL,🇮🇪,IRL,Ireland,assigned,0
+5fbf95454bc0e11fa470d93b,"[""+972""]","[""ILS""]","[""heb"",""ara"",""eng""]",IL,ISR,🇮🇱,ISR,Israel,assigned,0
+5fbf95454bc0e11fa470d93c,"[""+44""]","[""GBP""]","[""eng"",""glv""]",IM,IMN,🇮🇲,false,Isle Of Man,assigned,0
+5fbf95454bc0e11fa470d93d,"[""+91""]","[""INR""]","[""eng"",""hin""]",IN,IND,🇮🇳,IND,India,assigned,0
+5fbf95454bc0e11fa470d93e,"[""+246""]","[""USD""]","[""eng""]",IO,IOT,🇮🇴,false,British Indian Ocean Territory,assigned,0
+5fbf95454bc0e11fa470d93f,"[""+964""]","[""IQD""]","[""ara"",""kur""]",IQ,IRQ,🇮🇶,IRQ,Iraq,assigned,0
+5fbf95454bc0e11fa470d940,"[""+98""]","[""IRR""]","[""fas""]",IR,IRN,🇮🇷,IRI,"Iran, Islamic Republic Of",assigned,0
+5fbf95454bc0e11fa470d941,"[""+354""]","[""ISK""]","[""isl""]",IS,ISL,🇮🇸,ISL,Iceland,assigned,0
+5fbf95454bc0e11fa470d942,"[""+39""]","[""EUR""]","[""ita""]",IT,ITA,🇮🇹,ITA,Italy,assigned,0
+5fbf95454bc0e11fa470d943,"[""+44""]","[""GBP""]","[""eng"",""fra""]",JE,JEY,🇯🇪,JCI,Jersey,assigned,0
+5fbf95454bc0e11fa470d944,"[""+1 876""]","[""JMD""]","[""eng""]",JM,JAM,🇯🇲,JAM,Jamaica,assigned,0
+5fbf95454bc0e11fa470d945,"[""+962""]","[""JOD""]","[""ara""]",JO,JOR,🇯🇴,JOR,Jordan,assigned,0
+5fbf95454bc0e11fa470d946,"[""+81""]","[""JPY""]","[""jpn""]",JP,JPN,🇯🇵,JPN,Japan,assigned,0
+5fbf95454bc0e11fa470d947,[],[],[],JT,JTN,,false,Johnston Island,deleted,0
+5fbf95454bc0e11fa470d948,"[""+254""]","[""KES""]","[""eng"",""swa""]",KE,KEN,🇰🇪,KEN,Kenya,assigned,0
+5fbf95454bc0e11fa470d949,"[""+996""]","[""KGS""]","[""rus""]",KG,KGZ,🇰🇬,KGZ,Kyrgyzstan,assigned,0
+5fbf95454bc0e11fa470d94a,"[""+855""]","[""KHR""]","[""khm""]",KH,KHM,🇰🇭,CAM,Cambodia,assigned,0
+5fbf95454bc0e11fa470d94b,"[""+686""]","[""AUD""]","[""eng""]",KI,KIR,🇰🇮,KIR,Kiribati,assigned,0
+5fbf95454bc0e11fa470d94c,"[""+269""]","[""KMF""]","[""ara"",""fra""]",KM,COM,🇰🇲,COM,Comoros,assigned,0
+5fbf95454bc0e11fa470d94d,"[""+1 869""]","[""XCD""]","[""eng""]",KN,KNA,🇰🇳,SKN,Saint Kitts And Nevis,assigned,0
+5fbf95454bc0e11fa470d94e,"[""+850""]","[""KPW""]","[""kor""]",KP,PRK,🇰🇵,PRK,"Korea, Democratic People's Republic Of",assigned,0
+5fbf95454bc0e11fa470d94f,"[""+82""]","[""KRW""]","[""kor""]",KR,KOR,🇰🇷,KOR,"Korea, Republic Of",assigned,0
+5fbf95454bc0e11fa470d950,"[""+965""]","[""KWD""]","[""ara""]",KW,KWT,🇰🇼,KUW,Kuwait,assigned,0
+5fbf95454bc0e11fa470d951,"[""+1 345""]","[""KYD""]","[""eng""]",KY,CYM,🇰🇾,CAY,Cayman Islands,assigned,0
+5fbf95454bc0e11fa470d952,"[""+7"",""+7 6"",""+7 7""]","[""KZT""]","[""kaz"",""rus""]",KZ,KAZ,🇰🇿,KAZ,Kazakhstan,assigned,0
+5fbf95454bc0e11fa470d953,"[""+856""]","[""LAK""]","[""lao""]",LA,LAO,🇱🇦,LAO,"Lao People's Democratic Republic",assigned,0
+5fbf95454bc0e11fa470d954,"[""+961""]","[""LBP""]","[""ara"",""hye""]",LB,LBN,🇱🇧,LIB,Lebanon,assigned,0
+5fbf95454bc0e11fa470d955,"[""+1 758""]","[""XCD""]","[""eng""]",LC,LCA,🇱🇨,LCA,Saint Lucia,assigned,0
+5fbf95454bc0e11fa470d956,"[""+423""]","[""CHF""]","[""deu""]",LI,LIE,🇱🇮,LIE,Liechtenstein,assigned,0
+5fbf95454bc0e11fa470d957,"[""+94""]","[""LKR""]","[""sin"",""tam""]",LK,LKA,🇱🇰,SRI,Sri Lanka,assigned,0
+5fbf95454bc0e11fa470d958,"[""+231""]","[""LRD""]","[""eng""]",LR,LBR,🇱🇷,LBR,Liberia,assigned,0
+5fbf95454bc0e11fa470d959,"[""+266""]","[""LSL"",""ZAR""]","[""eng"",""sot""]",LS,LSO,🇱🇸,LES,Lesotho,assigned,0
+5fbf95454bc0e11fa470d95a,"[""+370""]","[""EUR""]","[""lit""]",LT,LTU,🇱🇹,LTU,Lithuania,assigned,0
+5fbf95454bc0e11fa470d95b,"[""+352""]","[""EUR""]","[""fra"",""deu"",""ltz""]",LU,LUX,🇱🇺,LUX,Luxembourg,assigned,0
+5fbf95454bc0e11fa470d95c,"[""+371""]","[""EUR""]","[""lav""]",LV,LVA,🇱🇻,LAT,Latvia,assigned,0
+5fbf95454bc0e11fa470d95d,"[""+218""]","[""LYD""]","[""ara""]",LY,LBY,🇱🇾,LBA,Libya,assigned,0
+5fbf95454bc0e11fa470d95e,"[""+212""]","[""MAD""]","[""ara""]",MA,MAR,🇲🇦,MAR,Morocco,assigned,0
+5fbf95454bc0e11fa470d95f,"[""+377""]","[""EUR""]","[""fra""]",MC,MCO,🇲🇨,MON,Monaco,assigned,0
+5fbf95454bc0e11fa470d960,"[""+373""]","[""MDL""]","[""ron""]",MD,MDA,🇲🇩,MDA,Moldova,assigned,0
+5fbf95454bc0e11fa470d961,"[""+382""]","[""EUR""]","[""mot""]",ME,MNE,🇲🇪,MNE,Montenegro,assigned,0
+5fbf95454bc0e11fa470d962,"[""+590""]","[""EUR""]","[""fra""]",MF,MAF,🇲🇫,false,Saint Martin,assigned,0
+5fbf95454bc0e11fa470d963,"[""+261""]","[""MGA""]","[""fra"",""mlg""]",MG,MDG,🇲🇬,MAD,Madagascar,assigned,0
+5fbf95454bc0e11fa470d964,"[""+692""]","[""USD""]","[""eng"",""mah""]",MH,MHL,🇲🇭,MHL,Marshall Islands,assigned,0
+5fbf95454bc0e11fa470d965,[],[],[],MI,MID,,false,Midway Islands,deleted,0
+5fbf95454bc0e11fa470d966,"[""+389""]","[""MKD""]","[""mkd""]",MK,MKD,🇲🇰,MKD,"Macedonia, The Former Yugoslav Republic Of",assigned,0
+5fbf95454bc0e11fa470d967,"[""+223""]","[""XOF""]","[""fra""]",ML,MLI,🇲🇱,MLI,Mali,assigned,0
+5fbf95454bc0e11fa470d968,"[""+95""]","[""MMK""]","[""mya""]",MM,MMR,🇲🇲,MYA,Myanmar,assigned,0
+5fbf95454bc0e11fa470d969,"[""+976""]","[""MNT""]","[""mon""]",MN,MNG,🇲🇳,MGL,Mongolia,assigned,0
+5fbf95454bc0e11fa470d96a,"[""+853""]","[""MOP""]","[""zho"",""por""]",MO,MAC,🇲🇴,MAC,Macao,assigned,0
+5fbf95454bc0e11fa470d96b,"[""+1 670""]","[""USD""]","[""eng""]",MP,MNP,🇲🇵,false,Northern Mariana Islands,assigned,0
+5fbf95454bc0e11fa470d96c,"[""+596""]","[""EUR""]",[],MQ,MTQ,🇲🇶,false,Martinique,assigned,0
+5fbf95454bc0e11fa470d96d,"[""+222""]","[""MRO""]","[""ara"",""fra""]",MR,MRT,🇲🇷,MTN,Mauritania,assigned,0
+5fbf95454bc0e11fa470d96e,"[""+1 664""]","[""XCD""]",[],MS,MSR,🇲🇸,false,Montserrat,assigned,0
+5fbf95454bc0e11fa470d96f,"[""+356""]","[""EUR""]","[""mlt"",""eng""]",MT,MLT,🇲🇹,MLT,Malta,assigned,0
+5fbf95454bc0e11fa470d970,"[""+230""]","[""MUR""]","[""eng"",""fra""]",MU,MUS,🇲🇺,MRI,Mauritius,assigned,0
+5fbf95454bc0e11fa470d971,"[""+960""]","[""MVR""]","[""div""]",MV,MDV,🇲🇻,MDV,Maldives,assigned,0
+5fbf95454bc0e11fa470d972,"[""+265""]","[""MWK""]","[""eng"",""nya""]",MW,MWI,🇲🇼,MAW,Malawi,assigned,0
+5fbf95454bc0e11fa470d973,"[""+52""]","[""MXN"",""MXV""]","[""spa""]",MX,MEX,🇲🇽,MEX,Mexico,assigned,0
+5fbf95454bc0e11fa470d974,"[""+60""]","[""MYR""]","[""msa"",""eng""]",MY,MYS,🇲🇾,MAS,Malaysia,assigned,0
+5fbf95454bc0e11fa470d975,"[""+258""]","[""MZN""]","[""por""]",MZ,MOZ,🇲🇿,MOZ,Mozambique,assigned,0
+5fbf95454bc0e11fa470d976,"[""+264""]","[""NAD"",""ZAR""]","[""eng""]",NA,NAM,🇳🇦,NAM,Namibia,assigned,0
+5fbf95454bc0e11fa470d977,"[""+687""]","[""XPF""]","[""fra""]",NC,NCL,🇳🇨,false,New Caledonia,assigned,0
+5fbf95454bc0e11fa470d978,"[""+227""]","[""XOF""]","[""fra""]",NE,NER,🇳🇪,NIG,Niger,assigned,0
+5fbf95454bc0e11fa470d979,"[""+672""]","[""AUD""]","[""eng""]",NF,NFK,🇳🇫,false,Norfolk Island,assigned,0
+5fbf95454bc0e11fa470d97a,"[""+234""]","[""NGN""]","[""eng""]",NG,NGA,🇳🇬,NGR,Nigeria,assigned,0
+5fbf95454bc0e11fa470d97b,[],[],[],NH,NHB,,false,New Hebrides,deleted,0
+5fbf95454bc0e11fa470d97c,"[""+505""]","[""NIO""]","[""spa""]",NI,NIC,🇳🇮,NCA,Nicaragua,assigned,0
+5fbf95454bc0e11fa470d97d,"[""+31""]","[""EUR""]","[""nld""]",NL,NLD,🇳🇱,NED,Netherlands,assigned,0
+5fbf95454bc0e11fa470d97e,"[""+47""]","[""NOK""]","[""nor""]",NO,NOR,🇳🇴,NOR,Norway,assigned,0
+5fbf95454bc0e11fa470d97f,"[""+977""]","[""NPR""]","[""nep""]",NP,NPL,🇳🇵,NEP,Nepal,assigned,0
+5fbf95454bc0e11fa470d980,[],[],[],NQ,ATN,,false,Dronning Maud Land,deleted,0
+5fbf95454bc0e11fa470d981,"[""+674""]","[""AUD""]","[""eng"",""nau""]",NR,NRU,🇳🇷,NRU,Nauru,assigned,0
+5fbf95454bc0e11fa470d982,[],[],[],NT,NTZ,,false,Neutral Zone,deleted,0
+5fbf95454bc0e11fa470d983,"[""+683""]","[""NZD""]","[""eng""]",NU,NIU,🇳🇺,false,Niue,assigned,0
+5fbf95454bc0e11fa470d984,"[""+64""]","[""NZD""]","[""eng""]",NZ,NZL,🇳🇿,NZL,New Zealand,assigned,0
+5fbf95454bc0e11fa470d985,"[""+968""]","[""OMR""]","[""ara""]",OM,OMN,🇴🇲,OMA,Oman,assigned,0
+5fbf95454bc0e11fa470d986,"[""+507""]","[""PAB"",""USD""]","[""spa""]",PA,PAN,🇵🇦,PAN,Panama,assigned,0
+5fbf95454bc0e11fa470d987,[],[],[],PC,PCI,,false,"Pacific Islands, Trust Territory of the",deleted,0
+5fbf95454bc0e11fa470d988,"[""+51""]","[""PEN""]","[""spa"",""aym"",""que""]",PE,PER,🇵🇪,PER,Peru,assigned,0
+5fbf95454bc0e11fa470d989,"[""+689""]","[""XPF""]","[""fra""]",PF,PYF,🇵🇫,false,French Polynesia,assigned,0
+5fbf95454bc0e11fa470d98a,"[""+675""]","[""PGK""]","[""eng""]",PG,PNG,🇵🇬,PNG,Papua New Guinea,assigned,0
+5fbf95454bc0e11fa470d98b,"[""+63""]","[""PHP""]","[""eng""]",PH,PHL,🇵🇭,PHI,Philippines,assigned,0
+5fbf95454bc0e11fa470d98c,"[""+92""]","[""PKR""]","[""urd"",""eng""]",PK,PAK,🇵🇰,PAK,Pakistan,assigned,0
+5fbf95454bc0e11fa470d98d,"[""+48""]","[""PLN""]","[""pol""]",PL,POL,🇵🇱,POL,Poland,assigned,0
+5fbf95454bc0e11fa470d98e,"[""+508""]","[""EUR""]","[""eng""]",PM,SPM,🇵🇲,false,Saint Pierre And Miquelon,assigned,0
+5fbf95454bc0e11fa470d98f,"[""+872""]","[""NZD""]","[""eng""]",PN,PCN,🇵🇳,false,Pitcairn,assigned,0
+5fbf95454bc0e11fa470d990,"[""+1 787"",""+1 939""]","[""USD""]","[""spa"",""eng""]",PR,PRI,🇵🇷,PUR,Puerto Rico,assigned,0
+5fbf95454bc0e11fa470d991,"[""+970""]","[""JOD"",""EGP"",""ILS""]","[""ara""]",PS,PSE,🇵🇸,PLE,"Palestinian Territory, Occupied",assigned,0
+5fbf95454bc0e11fa470d992,"[""+351""]","[""EUR""]","[""por""]",PT,PRT,🇵🇹,POR,Portugal,assigned,0
+5fbf95454bc0e11fa470d993,[],[],[],PU,PUS,,false,U.S. Miscellaneous Pacific Islands,deleted,0
+5fbf95454bc0e11fa470d994,"[""+680""]","[""USD""]","[""eng""]",PW,PLW,🇵🇼,PLW,Palau,assigned,0
+5fbf95454bc0e11fa470d995,"[""+595""]","[""PYG""]","[""spa""]",PY,PRY,🇵🇾,PAR,Paraguay,assigned,0
+5fbf95454bc0e11fa470d996,[],[],[],PZ,PCZ,,false,Panama Canal Zone,deleted,0
+5fbf95454bc0e11fa470d997,"[""+974""]","[""QAR""]","[""ara""]",QA,QAT,🇶🇦,QAT,Qatar,assigned,0
+5fbf95454bc0e11fa470d998,"[""+262""]","[""EUR""]","[""fra""]",RE,REU,🇷🇪,false,Reunion,assigned,0
+5fbf95454bc0e11fa470d999,[],[],[],RH,RHO,,false,Southern Rhodesia,deleted,0
+5fbf95454bc0e11fa470d99a,"[""+40""]","[""RON""]","[""ron""]",RO,ROU,🇷🇴,ROU,Romania,assigned,0
+5fbf95454bc0e11fa470d99b,"[""+381""]","[""RSD""]","[""srp""]",RS,SRB,🇷🇸,SRB,Serbia,assigned,0
+5fbf95454bc0e11fa470d99c,"[""+7"",""+7 3"",""+7 4"",""+7 8""]","[""RUB""]","[""rus""]",RU,RUS,🇷🇺,RUS,Russian Federation,assigned,0
+5fbf95454bc0e11fa470d99d,"[""+250""]","[""RWF""]","[""eng"",""fra"",""kin""]",RW,RWA,🇷🇼,RWA,Rwanda,assigned,0
+5fbf95454bc0e11fa470d99e,"[""+966""]","[""SAR""]","[""ara""]",SA,SAU,🇸🇦,KSA,Saudi Arabia,assigned,0
+5fbf95454bc0e11fa470d99f,"[""+677""]","[""SBD""]","[""eng""]",SB,SLB,🇸🇧,SOL,Solomon Islands,assigned,0
+5fbf95454bc0e11fa470d9a0,"[""+248""]","[""SCR""]","[""eng"",""fra""]",SC,SYC,🇸🇨,SEY,Seychelles,assigned,0
+5fbf95454bc0e11fa470d9a1,"[""+249""]","[""SDG""]","[""ara"",""eng""]",SD,SDN,🇸🇩,SUD,Sudan,assigned,0
+5fbf95454bc0e11fa470d9a2,"[""+46""]","[""SEK""]","[""swe""]",SE,SWE,🇸🇪,SWE,Sweden,assigned,0
+5fbf95454bc0e11fa470d9a3,"[""+65""]","[""SGD""]","[""eng"",""zho"",""msa"",""tam""]",SG,SGP,🇸🇬,SIN,Singapore,assigned,0
+5fbf95454bc0e11fa470d9a4,"[""+290""]","[""SHP""]","[""eng""]",SH,SHN,🇸🇭,false,"Saint Helena, Ascension And Tristan Da Cunha",assigned,0
+5fbf95454bc0e11fa470d9a5,"[""+386""]","[""EUR""]","[""slv""]",SI,SVN,🇸🇮,SLO,Slovenia,assigned,0
+5fbf95454bc0e11fa470d9a6,"[""+47""]","[""NOK""]",[],SJ,SJM,🇸🇯,false,Svalbard And Jan Mayen,assigned,0
+5fbf95454bc0e11fa470d9a7,"[""+421""]","[""EUR""]","[""slk""]",SK,SVK,🇸🇰,SVK,Slovakia,assigned,0
+5fbf95454bc0e11fa470d9a8,[],[],[],SK,SKM,,false,Sikkim,deleted,0
+5fbf95454bc0e11fa470d9a9,"[""+232""]","[""SLL""]","[""eng""]",SL,SLE,🇸🇱,SLE,Sierra Leone,assigned,0
+5fbf95454bc0e11fa470d9aa,"[""+378""]","[""EUR""]","[""ita""]",SM,SMR,🇸🇲,SMR,San Marino,assigned,0
+5fbf95454bc0e11fa470d9ab,"[""+221""]","[""XOF""]","[""fra""]",SN,SEN,🇸🇳,SEN,Senegal,assigned,0
+5fbf95454bc0e11fa470d9ac,"[""+252""]","[""SOS""]","[""som""]",SO,SOM,🇸🇴,SOM,Somalia,assigned,0
+5fbf95454bc0e11fa470d9ad,"[""+597""]","[""SRD""]","[""nld""]",SR,SUR,🇸🇷,SUR,Suriname,assigned,0
+5fbf95454bc0e11fa470d9ae,"[""+211""]","[""SSP""]","[""eng""]",SS,SSD,🇸🇸,SSD,South Sudan,assigned,0
+5fbf95454bc0e11fa470d9af,"[""+239""]","[""STD""]","[""por""]",ST,STP,🇸🇹,STP,Sao Tome and Principe,assigned,0
+5fbf95454bc0e11fa470d9b0,[],"[""RUB""]","[""rus""]",SU,false,false,false,USSR,reserved,0
+5fbf95454bc0e11fa470d9b1,"[""+503""]","[""USD""]","[""spa""]",SV,SLV,🇸🇻,ESA,El Salvador,assigned,0
+5fbf95454bc0e11fa470d9b2,"[""+1 721""]","[""ANG""]","[""nld""]",SX,SXM,🇸🇽,false,Sint Maarten,assigned,0
+5fbf95454bc0e11fa470d9b3,"[""+963""]","[""SYP""]","[""ara""]",SY,SYR,🇸🇾,SYR,Syrian Arab Republic,assigned,0
+5fbf95454bc0e11fa470d9b4,"[""+268""]","[""SZL""]","[""eng"",""ssw""]",SZ,SWZ,🇸🇿,SWZ,Swaziland,assigned,0
+5fbf95454bc0e11fa470d9b5,"[""+290""]","[""GBP""]",[],TA,false,false,false,Tristan de Cunha,reserved,0
+5fbf95454bc0e11fa470d9b6,"[""+1 649""]","[""USD""]","[""eng""]",TC,TCA,🇹🇨,false,Turks And Caicos Islands,assigned,0
+5fbf95454bc0e11fa470d9b7,"[""+235""]","[""XAF""]","[""ara"",""fra""]",TD,TCD,🇹🇩,CHA,Chad,assigned,0
+5fbf95454bc0e11fa470d9b8,[],"[""EUR""]","[""fra""]",TF,ATF,🇹🇫,false,French Southern Territories,assigned,0
+5fbf95454bc0e11fa470d9b9,"[""+228""]","[""XOF""]","[""fra""]",TG,TGO,🇹🇬,TOG,Togo,assigned,0
+5fbf95454bc0e11fa470d9ba,"[""+66""]","[""THB""]","[""tha""]",TH,THA,🇹🇭,THA,Thailand,assigned,0
+5fbf95454bc0e11fa470d9bb,"[""+992""]","[""TJS""]","[""tgk"",""rus""]",TJ,TJK,🇹🇯,TJK,Tajikistan,assigned,0
+5fbf95454bc0e11fa470d9bc,"[""+690""]","[""NZD""]","[""eng""]",TK,TKL,🇹🇰,false,Tokelau,assigned,0
+5fbf95454bc0e11fa470d9bd,"[""+670""]","[""USD""]","[""por""]",TL,TLS,🇹🇱,TLS,"Timor-Leste, Democratic Republic of",assigned,0
+5fbf95454bc0e11fa470d9be,"[""+993""]","[""TMT""]","[""tuk"",""rus""]",TM,TKM,🇹🇲,TKM,Turkmenistan,assigned,0
+5fbf95454bc0e11fa470d9bf,"[""+216""]","[""TND""]","[""ara""]",TN,TUN,🇹🇳,TUN,Tunisia,assigned,0
+5fbf95454bc0e11fa470d9c0,"[""+676""]","[""TOP""]","[""eng""]",TO,TON,🇹🇴,TGA,Tonga,assigned,0
+5fbf95454bc0e11fa470d9c1,[],[],[],TP,TMP,,false,East Timor,deleted,0
+5fbf95454bc0e11fa470d9c2,"[""+90""]","[""TRY""]","[""tur""]",TR,TUR,🇹🇷,TUR,Turkey,assigned,0
+5fbf95454bc0e11fa470d9c3,"[""+1 868""]","[""TTD""]","[""eng""]",TT,TTO,🇹🇹,TTO,Trinidad And Tobago,assigned,0
+5fbf95454bc0e11fa470d9c4,"[""+688""]","[""AUD""]","[""eng""]",TV,TUV,🇹🇻,TUV,Tuvalu,assigned,0
+5fbf95454bc0e11fa470d9c5,"[""+886""]","[""TWD""]","[""zho""]",TW,TWN,🇹🇼,TPE,Taiwan,assigned,0
+5fbf95454bc0e11fa470d9c6,"[""+255""]","[""TZS""]","[""swa"",""eng""]",TZ,TZA,🇹🇿,TAN,"Tanzania, United Republic Of",assigned,0
+5fbf95454bc0e11fa470d9c7,"[""+380""]","[""UAH""]","[""ukr"",""rus""]",UA,UKR,🇺🇦,UKR,Ukraine,assigned,0
+5fbf95454bc0e11fa470d9c8,"[""+256""]","[""UGX""]","[""eng"",""swa""]",UG,UGA,🇺🇬,UGA,Uganda,assigned,0
+5fbf95454bc0e11fa470d9c9,[],"[""GBP""]","[""eng"",""cor"",""gle"",""gla"",""cym""]",UK,false,false,false,United Kingdom,reserved,0
+5fbf95454bc0e11fa470d9ca,"[""+1""]","[""USD""]","[""eng""]",UM,UMI,🇺🇲,false,United States Minor Outlying Islands,assigned,0
+5fbf95454bc0e11fa470d9cb,"[""+1""]","[""USD""]","[""eng""]",US,USA,🇺🇸,USA,United States,assigned,0
+5fbf95454bc0e11fa470d9cc,"[""+598""]","[""UYU"",""UYI""]","[""spa""]",UY,URY,🇺🇾,URU,Uruguay,assigned,0
+5fbf95454bc0e11fa470d9cd,"[""+998""]","[""UZS""]","[""uzb"",""rus""]",UZ,UZB,🇺🇿,UZB,Uzbekistan,assigned,0
+5fbf95454bc0e11fa470d9ce,"[""+379"",""+39""]","[""EUR""]","[""ita""]",VA,VAT,🇻🇦,false,Vatican City State,assigned,0
+5fbf95454bc0e11fa470d9cf,"[""+1 784""]","[""XCD""]","[""eng""]",VC,VCT,🇻🇨,VIN,Saint Vincent And The Grenadines,assigned,0
+5fbf95454bc0e11fa470d9d0,[],[],[],VD,VDR,,false,"Viet-Nam, Democratic Republic of",deleted,0
+5fbf95454bc0e11fa470d9d1,"[""+58""]","[""VEF""]","[""spa""]",VE,VEN,🇻🇪,VEN,"Venezuela, Bolivarian Republic Of",assigned,0
+5fbf95454bc0e11fa470d9d2,"[""+1 284""]","[""USD""]","[""eng""]",VG,VGB,🇻🇬,IVB,Virgin Islands (British),assigned,0
+5fbf95454bc0e11fa470d9d3,"[""+1 340""]","[""USD""]","[""eng""]",VI,VIR,🇻🇮,ISV,Virgin Islands (US),assigned,0
+5fbf95454bc0e11fa470d9d4,"[""+84""]","[""VND""]","[""vie""]",VN,VNM,🇻🇳,VIE,Viet Nam,assigned,0
+5fbf95454bc0e11fa470d9d5,"[""+678""]","[""VUV""]","[""bis"",""eng"",""fra""]",VU,VUT,🇻🇺,VAN,Vanuatu,assigned,0
+5fbf95454bc0e11fa470d9d6,"[""+681""]","[""XPF""]","[""fra""]",WF,WLF,🇼🇫,false,Wallis And Futuna,assigned,0
+5fbf95454bc0e11fa470d9d7,[],[],[],WK,WAK,,false,Wake Island,deleted,0
+5fbf95454bc0e11fa470d9d8,"[""+685""]","[""WST""]","[""eng"",""smo""]",WS,WSM,🇼🇸,SAM,Samoa,assigned,0
+5fbf95454bc0e11fa470d9d9,"[""+383""]","[""EUR""]","[""sqi"",""srp"",""bos"",""tur"",""rom""]",XK,false,false,KOS,Kosovo,user assigned,0
+5fbf95454bc0e11fa470d9da,[],[],[],YD,YMD,,false,"Yemen, Democratic",deleted,0
+5fbf95454bc0e11fa470d9db,"[""+967""]","[""YER""]","[""ara""]",YE,YEM,🇾🇪,YEM,Yemen,assigned,0
+5fbf95454bc0e11fa470d9dc,"[""+262""]","[""EUR""]","[""fra""]",YT,MYT,🇾🇹,false,Mayotte,assigned,0
+5fbf95454bc0e11fa470d9dd,[],[],[],YU,YUG,,false,Yugoslavia,deleted,0
+5fbf95454bc0e11fa470d9de,"[""+27""]","[""ZAR""]","[""afr"",""eng"",""nbl"",""som"",""tso"",""ven"",""xho"",""zul""]",ZA,ZAF,🇿🇦,RSA,South Africa,assigned,0
+5fbf95454bc0e11fa470d9df,"[""+260""]","[""ZMW""]","[""eng""]",ZM,ZMB,🇿🇲,ZAM,Zambia,assigned,0
+5fbf95454bc0e11fa470d9e0,[],[],[],ZR,ZAR,,false,Zaire,deleted,0
+5fbf95454bc0e11fa470d9e1,"[""+263""]","[""USD"",""ZAR"",""BWP"",""GBP"",""EUR""]","[""eng"",""sna"",""nde""]",ZW,ZWE,🇿🇼,ZIM,Zimbabwe,assigned,0
